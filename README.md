@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @that1rqndomguy
-- 👀 I’m interested in Game Development and other interactive media.
+- 👀 I’m interested in Game Programming and other interactive media.
 - 🌱 I’m currently studying Creative Media and Game Technologies at Saxion.
 - 📚 I have some experience with: C#, C++, Unity.
 
